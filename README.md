@@ -7,5 +7,6 @@ I choose Tensorflow r1.0 to write my code. website:https://www.tensorflow.org/
 
 Prｅtrain word2vec: 
 I used https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/word2vec and my train set is common text8, but I remove stop-words.
+
 I save word2vec in two pkl file: dictionary.pkl and embeddings.pkl. Both dictionary.pkl and embeddings.pkl are python dictionary. dictionary.pkl, its key is word and value is index of word. embeddings.pkl, its key is index of word and value is the vetor of correspnding word. These two files used in model.py and read.py. 
-unfortunately, these files is too big to upload to github, instead put it on, I turn to      
+Unfortunately, these files is too big to upload to github, instead put it on, I turn to submit my script.
