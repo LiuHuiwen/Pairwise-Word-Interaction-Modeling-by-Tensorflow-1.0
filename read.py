@@ -51,13 +51,3 @@ class ReadDataset:
             tmp = self.len_of_sen - lenght
             index_lst.extend([padding for i in range(tmp)])
             return index_lst
-
-
-
-if __name__ == '__main__':
-    f = ReadDataset('txt', 18)
-    x, y, z = f.next_batch(2)
-    print x
-    print y
-    print z
-
