@@ -5,4 +5,5 @@ The model is based on paper[1]. I read this paper and decide to made it by mysel
 
 I choose Tensorflow r1.0 to write my code. website:https://www.tensorflow.org/
 
-prtrain word2vec I used https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/word2vec and my train set is common text8, but I remove stop-words.
+prtrain word2vec 
+I used https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/word2vec and my train set is common text8, but I remove stop-words.
