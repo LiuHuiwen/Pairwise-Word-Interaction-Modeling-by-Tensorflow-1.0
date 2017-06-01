@@ -10,3 +10,6 @@ I used https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/
 
 I save word2vec in two pkl file: dictionary.pkl and embeddings.pkl. Both dictionary.pkl and embeddings.pkl are python dictionary. dictionary.pkl, its key is word and value is index of word. embeddings.pkl, its key is index of word and value is the vetor of correspnding word. These two files used in model.py and read.py. 
 Unfortunately, these files is too big to upload to github, instead put it on, I turn to submit my script.
+
+----------------------------------------------------------------------------------------------------------------------------------
+*Update:There are some problem in this codes. And I haven't finished it.
