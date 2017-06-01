@@ -12,4 +12,4 @@ I save word2vec in two pkl file: dictionary.pkl and embeddings.pkl. Both diction
 Unfortunately, these files is too big to upload to github, instead put it on, I turn to submit my script.
 
 ----------------------------------------------------------------------------------------------------------------------------------
-*Update:There are some problem in this codes. And I haven't finished it.
+*Updated:There are some problem in this codes. And I haven't finished it.
