@@ -1,3 +1,4 @@
+
 # Pairwise-Word-Interaction-Modeling-by-Tensorflow-1.0
 The model is based on paper[1]. I read this paper and decide to made it by myself. This paper has in this project.
 
