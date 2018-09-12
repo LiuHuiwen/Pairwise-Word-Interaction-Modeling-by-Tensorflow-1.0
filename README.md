@@ -4,7 +4,7 @@ The model is based on
 
 * He H, Lin J. Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement[C]// Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2016:937-948.
 
-The paper is available [there](http://www.aclweb.org/anthology/N/N16/N16-1108.pdf).I studied this paper and implement its codes by myself. I chose [Tensorflow r1.0](https://www.tensorflow.org/) to write my code.<br>
+The paper is available [there](http://www.aclweb.org/anthology/N/N16/N16-1108.pdf). I studied this paper and implement its codes by myself. I chose [Tensorflow r1.0](https://www.tensorflow.org/) to write my code.<br>
 
 pretrained word2vec: I used [word2vec](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/word2vec) and my train set is the common text8, but I removed stop-words.<br>
 
